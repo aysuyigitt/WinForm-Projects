@@ -5,32 +5,19 @@ Bu proje, kullanıcıların seçtikleri mevsime göre ilgili ayları listeleyen 
 
 # Personel ve Maaş Takip Uygulaması (WinForms)
 
-Bu proje, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş bir Personel ve Maaş Takip Uygulamasıdır ve kullanıcıların personel bilgilerini yönetmesine olanak tanır. Temel özellikleri şunlardır:
+Bu proje, C# ve WinForms kullanılarak geliştirilmiş bir Personel ve Maaş Takip Uygulamasıdır. Kullanıcı, personel bilgilerini listeleyebilir, arama yapabilir, listeyi temizleyebilir ve toplam personel sayısını görebilir. Ayrıca en düşük ve en yüksek maaşlar, belirli maaş aralıklarındaki personel sayısı ve toplam ödenen maaş gibi istatistikleri görüntüleyebilir, maaş artırma işlemi yapabilir.
 
-Personel ve Maaş Bilgilerini Listeleme: Önceden tanımlanmış personel isimleri ve maaşları ListBox üzerinde görüntülenir.
-
-Personel Arama: Kullanıcı, bir personelin adını TextBox üzerinden arayabilir; personel bulunursa listede seçilir, bulunamazsa uyarı mesajı gösterilir.
-
-Listeyi Temizleme: Kullanıcı, “Temizle” butonu ile ListBox içeriğini temizleyebilir.
-
-Toplam Personel Sayısını Görüntüleme: “Toplam Personel Sayısı” butonu ile dizideki personel sayısı Label üzerinde gösterilir.
-
-En Düşük Maaşı Bulma: Dizideki en düşük maaş hesaplanır ve Label üzerinde görüntülenir.
-
-En Yüksek Maaş ve Personel Adı: En yüksek maaşı alan personelin adı Label üzerinde gösterilir.
-
-Maaşı 4000’den Az Olan Personeller: Bu kriteri sağlayan personeller ListBox üzerinde listelenir.
-
-Maaşı 5000–7000 Arasında Olan Personel Sayısı: Belirli maaş aralığındaki personel sayısı Label üzerinde gösterilir.
-
-Toplam Ödenen Maaş: Personellerin toplam maaşı hesaplanır ve Label’da gösterilir.
-
-Maaş Artırma: Belirli bir personelin maaşı artırılabilir ve ListBox güncellenir.
+<img width="904" height="521" alt="Image" src="https://github.com/user-attachments/assets/458e1fd7-0439-48a0-b059-85224b4ef4bf" />
 
 
-<img width="904" height="521" alt="Image" src="https://github.com/user-attachments/assets/39e88d2a-3b61-447f-a9c3-7becf1cfc9c6" />
+Sinema Bilet Takip Uygulaması (WinForms)
 
-n Büyük ve En Küçük Sayı Bulma Uygulaması (WinForms)
+Bu proje, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş bir Sinema Bilet Takip Uygulamasıdır. Kullanıcılar, bir sinema salonu oluşturabilir ve salon kapasitesine göre bilet satışı veya iptali gerçekleştirebilir. Uygulama, satılan biletler ve indirimli bilet seçeneklerini dikkate alarak kalan koltuk sayısını ve toplam bakiyeyi kullanıcıya gösterir.
+
+<img width="753" height="479" alt="Image" src="https://github.com/user-attachments/assets/7095b98e-792f-4531-af09-46d3cd005b59" />
+
+
+En Büyük ve En Küçük Sayı Bulma Uygulaması (WinForms)
 
 Bu proje, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş bir küçük uygulamadır. Kullanıcı, üç adet sayı girerek en büyük ve en küçük sayıyı kolayca öğrenebilir. Uygulama, kullanıcı girişlerini alır, sayıları karşılaştırır ve sonuçları TextBox’lar aracılığıyla gösterir.
 
