@@ -29,3 +29,9 @@ Maaş Artırma: Belirli bir personelin maaşı artırılabilir ve ListBox günce
 
 
 <img width="904" height="521" alt="Image" src="https://github.com/user-attachments/assets/39e88d2a-3b61-447f-a9c3-7becf1cfc9c6" />
+
+n Büyük ve En Küçük Sayı Bulma Uygulaması (WinForms)
+
+Bu proje, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş bir küçük uygulamadır. Kullanıcı, üç adet sayı girerek en büyük ve en küçük sayıyı kolayca öğrenebilir. Uygulama, kullanıcı girişlerini alır, sayıları karşılaştırır ve sonuçları TextBox’lar aracılığıyla gösterir.
+
+<img width="752" height="495" alt="Image" src="https://github.com/user-attachments/assets/08325e86-4aa9-464e-92fa-8a96bd91b74b" />
