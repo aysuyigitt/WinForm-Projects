@@ -1,0 +1,10 @@
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\bin\Debug\Frm_Personell.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\bin\Debug\Frm_Personell.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\bin\Debug\Frm_Personell.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Personell\Frm_Personell\obj\Debug\Frm_Personell.pdb
