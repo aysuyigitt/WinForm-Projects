@@ -1,0 +1,12 @@
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\bin\Debug\FrmÜrün.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\bin\Debug\FrmÜrün.exe
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\bin\Debug\FrmÜrün.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.exe
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.FrmMusteri.resources
+C:\Users\AYSU YİĞİT\Source\Repos\FrmÜrün\FrmÜrün\obj\Debug\FrmÜrün.FrmSatislar.resources

@@ -1,0 +1,10 @@
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\bin\Debug\Frm_Tahmin.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\bin\Debug\Frm_Tahmin.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\bin\Debug\Frm_Tahmin.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Tahmin\Frm_Tahmin\obj\Debug\Frm_Tahmin.pdb

@@ -1,0 +1,11 @@
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\bin\Debug\temel_arac_kullanımları.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\bin\Debug\temel_arac_kullanımları.exe
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\bin\Debug\temel_arac_kullanımları.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.exe
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\temel_arac_kullanımları\temel_arac_kullanımları\obj\Debug\temel_arac_kullanımları.Form2.resources

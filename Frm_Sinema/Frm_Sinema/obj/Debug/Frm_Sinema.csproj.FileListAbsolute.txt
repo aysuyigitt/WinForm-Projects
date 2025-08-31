@@ -1,0 +1,10 @@
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\bin\Debug\Frm_Sinema.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\bin\Debug\Frm_Sinema.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\bin\Debug\Frm_Sinema.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Sinema\Frm_Sinema\obj\Debug\Frm_Sinema.pdb

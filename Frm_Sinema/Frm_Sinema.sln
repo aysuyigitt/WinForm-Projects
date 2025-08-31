@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frm_Sinema", "Frm_Sinema\Frm_Sinema.csproj", "{C72AD63D-38BD-4C47-AEB9-606422CCA845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72AD63D-38BD-4C47-AEB9-606422CCA845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72AD63D-38BD-4C47-AEB9-606422CCA845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72AD63D-38BD-4C47-AEB9-606422CCA845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72AD63D-38BD-4C47-AEB9-606422CCA845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603C3C43-AA33-4576-9C16-0D20EF80B736}
+	EndGlobalSection
+EndGlobal

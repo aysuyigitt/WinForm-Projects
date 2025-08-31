@@ -1,0 +1,10 @@
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\bin\Debug\frmBüyükKücük.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\bin\Debug\frmBüyükKücük.exe
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\bin\Debug\frmBüyükKücük.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.exe
+C:\Users\AYSU YİĞİT\Source\Repos\frmBüyükKücük\frmBüyükKücük\obj\Debug\frmBüyükKücük.pdb

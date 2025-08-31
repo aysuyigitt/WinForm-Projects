@@ -1,0 +1,10 @@
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\bin\Debug\Frm_Mevsim.exe.config
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\bin\Debug\Frm_Mevsim.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\bin\Debug\Frm_Mevsim.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.Form1.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.Properties.Resources.resources
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.csproj.GenerateResource.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.exe
+C:\Users\AYSU YİĞİT\Source\Repos\Frm_Mevsim\Frm_Mevsim\obj\Debug\Frm_Mevsim.pdb
